@@ -1,7 +1,7 @@
 import time,os,shutil
 
 path = "path_of_directory" 
-days = 7 
+days = 30 
 
 seconds = time.time() - (days * 24 * 60 * 60)
 
